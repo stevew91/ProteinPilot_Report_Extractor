@@ -1,0 +1,39 @@
+Number of spectra in search: 66418.0
+Protein 1% Global FDR: 1552.0
+Peptide 1% Global FDR: 9579.0
+Peptide Spectrum Match 1% Global FDR: 31305.0
+
+Digestion Efficiency:
+Canonical sequence peptides: 0.8473027195720018
+Over-cleaved sequence peptides: 0.026749888542131076
+Under-cleaved sequence peptides: 0.12338386090057958
+Mixed over and under cleaved: 0.0025635309852875612
+
+Most Frequent Deltas:
+1: Carbamidomethyl(C): 1.0
+2: Deamidated(N): 0.03547008547008547
+3: Deamidated(Q): 0.016406724731618392
+4: Gln->pyro-Glu(Q)@N-term: 0.18789808917197454
+5: Oxidation(M): 0.01558846453624318
+6: Formyl@N-term: 0.003901025412394115
+7: Carbamidomethyl@N-term: 0.0033437360677663844
+8: Formyl(K): 0.0031610264038676086
+9: Carbamidomethyl(K): 0.0024172554853105245
+10: Delta:H(2)C(2)@N-term: 0.0014489522960321
+11: Ammonia-loss(N): 0.002136752136752137
+12: Delta:H(4)C(2)@N-term: 0.0011145786892554615
+13: Oxidation(H): 0.004001778568252557
+14: Oxidation(W): 0.007425742574257425
+15: Carbamyl@N-term: 0.0005572893446277307
+
+Correspondence between FDR Levels and ProteinPilot Reported Confidences:
+Global FDR from Fit (%): 75.96000000000001
+
+QC info:
+Chromatographic Peak Width at Half Height (Median in sec): 20.400000000000002
+
+Database Filename:
+C:\AB SCIEX\ProteinPilot Data\SearchDatabases\20190717_RRP_SWISS_Canon_human_with_BUGS.fasta
+
+Cysteine Alkylation: Iodoacetamide
+Species: 
